@@ -6,7 +6,7 @@ target 'tumblr_real_feed' do
   use_frameworks!
 
   # Pods for tumblr_real_feed
-	    pod 'AlamofireImage', '~> 3.3'
+    pod 'AlamofireImage', '~> 3.3'
   target 'tumblr_real_feedTests' do
     inherit! :search_paths
     # Pods for testing
